@@ -1,4 +1,4 @@
-Ancien site fait en avec fonctions d'ajout/modification de membres et d'actualités.
+Ancien site fait en avec fonctions d'ajout/modification de membres et d'actualités fait pendant mon BTS.
 Il n'y a pas de gestion du front, que du PHP/HTML...
 
 --
