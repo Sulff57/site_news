@@ -1,0 +1,98 @@
+﻿body{
+	font-family: "Microsoft Sans Serif";}
+#login{
+	margin-left: auto;
+	margin-right: auto;
+	border:thin purple groove;
+	text-align:center;
+	line-height:30px;
+	width:150px;
+}
+
+#cadre{
+	border:thin navy groove;
+	width:600px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#cadre_news {
+	width: 600px;
+	font-family: "Microsoft Sans Serif";
+	margin-left: auto;
+	margin-right: auto;
+	text-indent: 10px;
+	margin-bottom: 50px;
+}
+
+#titre_news {
+	background-color: #3399FF;
+	height: 25px;
+	font-family: "Microsoft Sans Serif";
+	color: #FFFFFF;
+	text-align:center;
+}
+
+#texte_news {
+	padding:10px;
+	border-bottom: thin black dotted;
+}
+
+#auteur_news {
+	font-size: small;
+	float:left;
+}
+
+#option_modifier_news{
+	float:right;
+	padding-right:10px;
+	font-size: small;
+}
+
+#champs_inscription{
+	background-color: silver;
+	border: thin black solid;
+	width:250px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:5px;
+	font-family: "Microsoft Sans Serif";
+	text-align:center;
+}
+
+#profil{
+	text-indent:10px;
+	width:40%;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	border: thin black solid;
+	padding: 2px;
+}
+#head_profil{
+	background-color: #999999;
+	margin-top:1px;
+	margin-right:1px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	border-bottom: thin black solid;
+	font-size: large;
+	color: #FFFFFF;
+}
+#onglet_profil{
+	border-left: thin black solid;
+	border-right: thin black solid;
+	border-top: thin black solid;
+	background-color: #CCCCCC;
+	padding-right:10px;
+}
+	
+#sub_profil{
+	padding-top: 3px;
+	padding-bottom: 3px;
+	background-color: #CCCCCC;
+	font-size: small;
+}
+#cellule_profil{
+	background-color: #F7F9FA;
+}
